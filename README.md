@@ -24,8 +24,8 @@
         border-radius: 5px;
     }
 </style>
-<!--para esto he usado IA-->
 </head>
+<!--para esto he usado IA-->
 <body>
 	<h1>¡Hola! soy Facundo</h1>
 	<p>soy <em>Facundo Winder</em>. soy un joven de 18 años recien salido de la secundaria. me gusta dibujar y crear historias.</p>
